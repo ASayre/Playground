@@ -1,3 +1,3 @@
 # Playground
 Testing ground
-[www.example.net]
+(www.example.net)
